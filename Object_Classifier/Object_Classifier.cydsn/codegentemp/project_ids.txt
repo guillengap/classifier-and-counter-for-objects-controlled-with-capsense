@@ -1,0 +1,6 @@
+C:\Users\Jupiter\Documents\PSoC Creator\Object_Classifier\Object_Classifier.cydsn\Object_Classifier.cyprj|8822df84-573b-4df4-94c6-36bfaa7becf5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2e742e33-c8dc-4641-87c3-b50a5bef6b4f
+C:\Users\Jupiter\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|5111d03b-7f3b-4842-85d3-cc21891f052d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|89d9c325-038c-41e3-9aed-d590bc8060ba
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|e84dc7fc-ad54-4464-8029-661168ef2cf7
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a12f9bef-5df0-41b5-a1da-bbe49d38e557
